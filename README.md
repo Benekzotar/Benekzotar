@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Benekzotar
-- 👀 I’m interested in web development and creating AI agents.
+- 👀 I’m interested in web development, machine learning and creating AI agents.
 - 🌱 I’m currently learning basics about programming.
 - 💞️ I’m looking to collaborate on - I'm not sure yet.
 - 📫 How to reach me beniamin.wolodko.awfis@gmail.com
